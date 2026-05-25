@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ddpm-paired-i2i
+Version: 0.0.0
+Requires-Dist: blobfile>=1.0.5
+Requires-Dist: numpy
+Requires-Dist: pillow
+Requires-Dist: torch
+Requires-Dist: tqdm

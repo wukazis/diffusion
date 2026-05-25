@@ -1,0 +1,6 @@
+.ace-tool/
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.npz
